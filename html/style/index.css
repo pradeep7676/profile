@@ -1,0 +1,34 @@
+.about {
+    font-size: 25px;
+    margin-bottom: 10px;
+    padding-left: none;
+    padding-right: 95px;
+}
+
+.skills {
+    font-size: 25px;
+    margin-bottom: 10px;
+    padding-left: none;
+    padding-right: 95px;
+
+}
+
+.hobbies {
+    font-size: 25px;
+    margin-bottom: 10px;
+   padding-left: none;
+    padding-right: 95px;
+}
+
+.location {
+    font-size: 25px;
+    margin-bottom: 10px;
+    padding-left: none;
+    padding-right: 95px;
+    
+}
+p {
+    color :brown;
+    font-size: 15px;
+
+}
